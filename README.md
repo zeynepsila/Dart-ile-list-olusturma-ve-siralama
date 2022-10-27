@@ -1,1 +1,1 @@
-# Dart-ile-list-olusturma-ve-siralama
+Mobil Programlama dersinde yaptığım ödevler.
